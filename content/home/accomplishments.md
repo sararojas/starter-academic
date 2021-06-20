@@ -31,7 +31,22 @@ item:
   organization_url: https://www.edx.org
   title: Deep Learning with Python and PyTorch
   url: "https://learning.edx.org/course/course-v1:IBM+DL0110EN+3T2018/home"
-
+- certificate_url: https://courses.edx.org/certificates/c757b81a53a74c0d97cf92c3a072ec0d
+  date_end: ""
+  date_start: "2019-07"
+  description: ""
+  organization: EdX
+  organization_url: https://www.edx.org
+  title: Deep Learning with Python and PyTorch
+  url: "https://learning.edx.org/course/course-v1:IBM+DL0110EN+3T2018/home"
+- certificate_url: https://courses.edx.org/certificates/c757b81a53a74c0d97cf92c3a072ec0d
+  date_end: ""
+  date_start: "2019-07"
+  description: ""
+  organization: EdX
+  organization_url: https://www.edx.org
+  title: Deep Learning with Python and PyTorch
+  url: "https://learning.edx.org/course/course-v1:IBM+DL0110EN+3T2018/home"
 
 design:
   columns: '2' 
