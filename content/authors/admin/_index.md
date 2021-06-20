@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a PhD student of Computer Vision at the KAUST IVUL Lab. My research interests include computer vision, 3D reconstruction and adversarial attacks. I love listening to music and gyming. I can spend hours reading blogs about food, science and curious stuff.
+I am a PhD student of Computer Vision at the KAUST [IVUL Lab](https://cemse.kaust.edu.sa/ivul/people/person/sara-rojas-martinez). My research interests include computer vision, 3D reconstruction and adversarial attacks. I love listening to music and gyming. I can spend hours reading blogs about food, science and curious stuff.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_Sara.pdf" "newtab" >}}resumé{{< /staticref >}}.
