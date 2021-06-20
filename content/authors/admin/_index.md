@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: KAUST
-      year: 2020
+      year: 2024
     - course: MEng in Biomedical Engineering
       institution: Universidad de los Andes
       year: 2018
