@@ -23,12 +23,10 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
   - Sara Rojas Martínez
   - Diana Sofia Herrera
   - Pablo Arbeláez
+author_notes: []
 publication: In *15th International Symposium on Medical Information Processing
   and Analysis*
 summary: ""
@@ -48,9 +46,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: null
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
