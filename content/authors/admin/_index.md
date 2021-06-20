@@ -31,13 +31,13 @@ education:
   courses:
     - course: PhD in Electrical and Computer Engineering
       institution: KAUST
-      year: 2024
+      year: ""
     - course: MEng in Biomedical Engineering
       institution: Universidad de los Andes
-      year: 2018
+      year: ""
     - course: BSc in Electronics Engineering
       institution: Universidad de los Andes
-      year: 2016
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
