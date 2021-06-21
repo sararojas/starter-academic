@@ -24,6 +24,3 @@ item:
     description: 'Deep Learning with Python and PyTorch.'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
