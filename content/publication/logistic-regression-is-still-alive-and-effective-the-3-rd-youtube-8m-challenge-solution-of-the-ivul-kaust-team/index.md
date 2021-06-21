@@ -20,8 +20,7 @@ url_project: ""
 publication_short: In *ICCV Workshop*
 url_source: ""
 url_video: ""
-title: Precise human pose estimation based on two-dimensional images for
-  kinematic analysis
+title: 
 doi: ""
 featured: false
 tags: []
