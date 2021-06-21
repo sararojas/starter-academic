@@ -4,13 +4,13 @@ title: "Logistic Regression is Still Alive and Effective: The 3 rd YouTube 8M
 publication_types:
   - "0"
 authors:
-  - Merey Ramazanova 1
-  - Chen Zhao1
-  - Mengmeng Xu1
-  - Humam Alwassel1
-  - Sara Rojas Martinez1
-  - Fabian Caba2
-  - and Bernard Ghanem1
+  - Merey Ramazanova
+  - Chen Zhao
+  - Mengmeng Xu
+  - Humam Alwassel
+  - Sara Rojas Martinez
+  - Fabian Caba
+  - and Bernard Ghanem
 abstract: In this report, we present our solution for the 3 rd YouTube-8M Video
   Understanding Challenge for a task of temporal localization of topics within a
   video. Our team achieves the 9 th place in the Public Leaderboard and the 11th
