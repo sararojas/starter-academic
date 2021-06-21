@@ -27,8 +27,7 @@ authors:
   - Diana Sofia Herrera
   - Pablo Arbeláez
 author_notes: []
-publication: In *15th International Symposium on Medical Information Processing
-  and Analysis*
+publication: 15th International Symposium on Medical Information Processing and Analysis
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -38,7 +37,7 @@ url_video: ""
 title: Precise human pose estimation based on two-dimensional images for
   kinematic analysis
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
