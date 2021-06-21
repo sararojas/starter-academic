@@ -20,7 +20,7 @@ url_project: ""
 publication_short: In *ICCV Workshop*
 url_source: ""
 url_video: ""
-title: 
+title: Logistic Regression is Still Alive and Effective:
 doi: ""
 featured: false
 tags: []
