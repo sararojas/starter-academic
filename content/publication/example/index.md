@@ -45,6 +45,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11330/113300F/Precise-human-pose-estimation-based-on-two-dimensional-images-for/10.1117/12.2542539.full
+date: 2021-06-21T06:59:34.772Z
 url_slides: ""
 url_poster: ""
 url_code: ""
