@@ -8,7 +8,7 @@ authors:
   - Ali Thabet
   - and Bernard Ghanem
 publication: " European conference on computer vision"
-publication_short: ECCV 2020
+publication_short: In ECCV 2020
 abstract: "Deep neural networks are vulnerable to adversarial attacks, in which
   imperceptible perturbations to their input lead to erroneous network
   predictions. This phenomenon has been extensively studied in the image domain,
@@ -34,5 +34,5 @@ image:
   filename: https://arxiv.org/pdf/1912.00461.pdf
   focal_point: Smart
   preview_only: false
-date: 2021-06-21T06:59:56.721Z
+date: 2020-06-21T06:59:56.721Z
 ---
