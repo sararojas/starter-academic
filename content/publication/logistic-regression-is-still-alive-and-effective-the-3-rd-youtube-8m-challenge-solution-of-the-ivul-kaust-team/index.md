@@ -5,9 +5,13 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Sara Rojas Martínez
-  - Diana Sofia Herrera
-  - Pablo Arbeláez
+  - Merey Ramazanova
+  - Chen Zhao
+  - Mengmeng Xu
+  - Humam Alwassel
+  - Sara Rojas Martinez
+  - Fabian Caba
+  - Bernard Ghanem
 author_notes: []
 publication: 15th International Symposium on Medical Information Processing and Analysis
 summary: ""
