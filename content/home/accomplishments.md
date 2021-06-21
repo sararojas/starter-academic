@@ -1,6 +1,17 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
+
+# This file represents a page section.
 headless: true
 date_format: Jan 2006
+# Order that this section appears on the page.
+weight: 90
+
+title: accomplishments
+subtitle: ''
+
 item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
@@ -27,3 +38,8 @@ item:
     date_start: '2017-07-01'
     date_end: '2017-12-21'
     description: ''
+---
+
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}
