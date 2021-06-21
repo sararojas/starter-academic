@@ -13,15 +13,14 @@ authors:
   - Fabian Caba
   - Bernard Ghanem
 author_notes: []
-publication: 15th International Symposium on Medical Information Processing and Analysis
+publication: International Conference on Computer Vision
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *SIPAIM*
+publication_short: In *ICCV Workshop*
 url_source: ""
 url_video: ""
-title: Precise human pose estimation based on two-dimensional images for
-  kinematic analysis
+title: Logistic Regression is Still Alive and Effective: The 3 rd YouTube 8M Challenge Solution of the IVUL-KAUST team
 doi: ""
 featured: false
 tags: []
