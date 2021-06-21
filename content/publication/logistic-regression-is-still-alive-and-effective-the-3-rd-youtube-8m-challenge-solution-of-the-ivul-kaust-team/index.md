@@ -17,7 +17,7 @@ publication: International Conference on Computer Vision
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *SIPAIM*
+publication_short: In *ICCV Workshop*
 url_source: ""
 url_video: ""
 title: Precise human pose estimation based on two-dimensional images for
