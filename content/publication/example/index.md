@@ -37,7 +37,7 @@ url_video: ""
 title: Precise human pose estimation based on two-dimensional images for
   kinematic analysis
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
