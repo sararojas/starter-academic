@@ -1,18 +1,4 @@
 ---
-title: "Logistic Regression is Still Alive and Effective: The 3 rd YouTube 8M
-  Challenge Solution of the IVUL-KAUST team"
-publication_types:
-  - "1"
-authors:
-  - Merey Ramazanova
-  - Chen Zhao
-  - Mengmeng Xu
-  - Humam Alwassel
-  - Sara Rojas Martinez
-  - Fabian Caba
-  - and Bernard Ghanem
-publication: International Conference on Computer Vision
-publication_short:in *ICCV Workshop*
 abstract: In this report, we present our solution for the 3 rd YouTube-8M Video
   Understanding Challenge for a task of temporal localization of topics within a
   video. Our team achieves the 9 th place in the Public Leaderboard and the 11th
@@ -24,11 +10,40 @@ abstract: In this report, we present our solution for the 3 rd YouTube-8M Video
   and segmentlevel annotations. Furthermore, we adopt a teacher-student model
   and deep clustering to generate pseudo-labels to increase the amount of
   fully-annotated data.
-draft: false
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
+authors:
+  - Merey Ramazanova
+  - Chen Zhao
+  - Mengmeng Xu
+  - Humam Alwassel
+  - Sara Rojas Martinez
+  - Fabian Caba
+  - and Bernard Ghanem
+author_notes: []
+publication: International Conference on Computer Vision
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: In *ICCV Workshop*
+url_source: ""
+url_video: ""
+title: Logistic Regression is Still Alive and Effective: The 3 rd YouTube 8M
+  Challenge Solution of the IVUL-KAUST team
+doi: ""
 featured: false
+tags: []
+projects: []
 image:
-  filename: https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2019/c_15.pdf
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
-date: 2019-06-21T06:55:13.918Z
+  filename: https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2019/c_15.pdf
+date: 2019-06-21T06:59:34.772Z
+url_slides: ""
+url_poster: ""
+url_code: ""
 ---
+
