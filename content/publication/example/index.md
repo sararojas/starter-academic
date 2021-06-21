@@ -31,7 +31,7 @@ publication: 15th International Symposium on Medical Information Processing and 
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *SIPAIM 2019*
+publication_short: In *SIPAIM*
 url_source: ""
 url_video: ""
 title: Precise human pose estimation based on two-dimensional images for
@@ -45,7 +45,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11330/113300F/Precise-human-pose-estimation-based-on-two-dimensional-images-for/10.1117/12.2542539.full
-date: 2021-06-21T06:59:34.772Z
+date: 2019-06-21T06:59:34.772Z
 url_slides: ""
 url_poster: ""
 url_code: ""
