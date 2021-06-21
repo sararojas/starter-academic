@@ -25,7 +25,7 @@ abstract: In this report, we present our solution for the 3 rd YouTube-8M Video
   and deep clustering to generate pseudo-labels to increase the amount of
   fully-annotated data.
 draft: false
-featured: true
+featured: false
 image:
   filename: https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2019/c_15.pdf
   focal_point: Smart
