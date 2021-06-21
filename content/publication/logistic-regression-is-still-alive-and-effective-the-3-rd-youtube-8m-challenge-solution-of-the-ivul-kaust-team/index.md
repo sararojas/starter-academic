@@ -20,7 +20,7 @@ url_project: ""
 publication_short: In *ICCV Workshop*
 url_source: ""
 url_video: ""
-title: Logistic Regression is Still Alive and Effective: The 3 rd YouTube 8M Challenge Solution of the IVUL-KAUST team
+title: Logistic Regression is Still Alive and Effective: The 3rd YouTube 8M Challenge Solution of the IVUL-KAUST team
 doi: ""
 featured: false
 tags: []
